@@ -9,3 +9,4 @@ env/
 .virtual_documents/
 anaconda_projects/
 Untitled.ipynb
+*.csv
