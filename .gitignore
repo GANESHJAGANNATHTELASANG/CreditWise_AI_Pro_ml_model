@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+.DS_Store
+*.pyc
+.virtual_documents/
+anaconda_projects/
+Untitled.ipynb
