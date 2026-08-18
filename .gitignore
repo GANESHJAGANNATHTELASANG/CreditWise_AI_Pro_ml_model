@@ -10,3 +10,5 @@ env/
 anaconda_projects/
 Untitled.ipynb
 *.csv
+*.joblib
+*.npy
