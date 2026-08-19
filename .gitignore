@@ -12,3 +12,4 @@ Untitled.ipynb
 *.csv
 *.joblib
 *.npy
+*.pkl
